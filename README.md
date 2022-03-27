@@ -1,5 +1,5 @@
 - 👨‍💻 I'm working on [an iOS app](http://hhhelloworld.com/) and a flocking simulation library
-- 🌱 I’m currently learning c++, and am interested to learn more about functional programming.
+- 🌱 Learning application security.
 - 💬 Ask me about python and iOS development.
 - 😄 Pronouns: he/him
 
