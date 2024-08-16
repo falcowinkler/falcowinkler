@@ -1,5 +1,5 @@
-- 👨‍💻 I'm working on [an iOS app](http://hhhelloworld.com/) and a flocking simulation library
-- 🌱 Learning application security.
+- 👨‍💻 I'm working on Auth.js.
+- 🌱 Learning clojure.
 - 💬 Ask me about python and iOS development.
 - 😄 Pronouns: he/him
 
